@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934620009993",
+    "project_id": "technical-test-d32a1",
+    "storage_bucket": "technical-test-d32a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934620009993:android:22a80ec818699d09fa0ad8",
+        "android_client_info": {
+          "package_name": "works.a4t0mic.technical_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRpDR53z_5s2eYPEUQOFbYzKUtAKdIuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
