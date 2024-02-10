@@ -17,10 +17,10 @@ Technical Test App
 
 **Installation Instructions**
 
-Clone the repository: `git clone https://github.com/alaincruz06/technical_test.git`
-Navigate to the project directory: `cd technical_test`
-Install dependencies: `flutter pub get`
-Run the app: `flutter run`
+1. Clone the repository: `git clone https://github.com/alaincruz06/technical_test.git`
+2. Navigate to the project directory: `cd technical_test`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
 -Bonus config:
 If there´s any error on the Firebase config side, then create a project on Firebase and link it to the app using obfuscated environment variables following the [envied package](https://pub.dev/packages/envied) guidelines and using the provided env file.
